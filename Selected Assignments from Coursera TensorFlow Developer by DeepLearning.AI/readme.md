@@ -1,2 +1,2 @@
-C2W4_Assignment: Computer Vision assignment for classifying images of Scissor, Paper, Stone - from Kaggle dataset.
-C3W2_Assignment: Natural Language Processing assignment for classifying news articles into 5 different categories - from BBC News Report dataset.  
+1. C2W4_Assignment: __Computer Vision__ assignment for classifying images of Scissor, Paper, Stone - from Kaggle dataset.
+2. C3W2_Assignment: __Natural Language Processing__ assignment for classifying news articles into 5 different categories - from BBC News Report dataset.  
