@@ -1,3 +1,4 @@
-1. C2W4_Assignment: __Computer Vision__ assignment using Conv2D and Pooling layers to enhance DNN model for classifying images of Scissor, Paper, Stone - from __Sign Language MNIST Kaggle dataset__.
-2. C3W2_Assignment: __Natural Language Processing__ assignment using simple DNN model for classifying news articles into 5 different categories - from __BBC News Report Kaggle dataset__.  
-3. C4W2_Assignment: __Time Series Prediction__ assignment focusing on transforming timeseries dataset into windowed datasets and setting up learning rate scheduler object to optimize learning rate. (Still using simple DNN model)
+1. C2W4_Assignment: __Computer Vision__ model using Conv2D and Pooling layers to enhance DNN model for classifying images of Scissor, Paper, Stone - from __Sign Language MNIST Kaggle dataset__.
+2. C3W2_Assignment: __Natural Language Processing__ model using simple DNN model for classifying news articles into 5 different categories - from __BBC News Report Kaggle dataset__.  
+3. C4W2_Assignment: __Time Series Prediction__ assignment focusing on transforming timeseries dataset into windowed datasets and setting up learning rate scheduler object to vary learning rate while training the model. (Still using simple DNN model)
+4. C4W4_Assignment: __Time Series Prediction__ model using Conv1D and LSTM layers to enhance DNN layers for predicting daily minimum temperature in Melbourne (contains seasonality/periodicity).
